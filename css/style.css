@@ -255,7 +255,42 @@ a {
   padding-top: 50px;
 }
 
+.p-updates {
+  font-family: 'Montserrat'; font-size:20px; color:#ffffff; font-weight: 400; padding-top: 70px;
+}
 
+.p-touch {
+  font-family: 'Montserrat'; font-size:20px; color:#ffffff; font-weight: 400; padding-top: 70px;
+}
+
+.top-title {
+  font-size:50px; color:#ffffff; font-weight:bold; text-align:left;
+}
+
+.a-place {
+  padding-bottom: 50px; font-size:16px;
+}
+
+.bold-title {
+  font-weight: bold;
+}
+
+.bold-title2 {
+  font-weight: bold;
+  color:#f2cab3;
+}
+
+.get-emails {
+  font-size:20px; font-weight:bold; padding-top: 50px;
+}
+
+.input-mail1 {
+  style=margin-left: 15px;
+}
+
+.tech {
+  color: #f2cab3;
+}
 
 
 @media (prefers-color-scheme: light) {
