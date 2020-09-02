@@ -28,7 +28,7 @@ p {
   align-items: center;
   line-height: 30px;
   color: white;
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', 'Open Sans', 'Proxima Nova';
   font-size: 14px;
 
 }
@@ -45,7 +45,7 @@ p {
   margin: 4px 2px;
   transition-duration: 0.2s;
   cursor: pointer;
-  font-family: "Montserrat";
+  font-family: 'Montserrat', 'Open Sans', 'Proxima Nova';
 }
 
 .button1 {
@@ -171,8 +171,8 @@ input::-webkit-input-placeholder {
 
 .email {
   style="border: none;
-  font-family: 'Montserrat';
-  height: 50px;
+  font-family: 'Montserrat', 'Open Sans', 'Proxima Nova';
+  height: 55px;
   width: 280px;
   padding: 12px;
   margin-bottom: 20px;
@@ -186,7 +186,7 @@ input::-webkit-input-placeholder {
   font-size: 14px;
   color: white;
   line-height: 40px;
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', 'Open Sans', 'Proxima Nova';
 }
 
 table tbody tr td a {
@@ -221,7 +221,7 @@ table tr td {
   padding: 12px 20px 12px 40px;
   border: 1px solid #ddd;
   margin-bottom: 12px;
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', 'Open Sans', 'Proxima Nova';
 }
 
 #myTable th, #myTable td {
@@ -248,7 +248,7 @@ a {
 }*/
 
 .psearch {
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', 'Open Sans', 'Proxima Nova';
   font-size:20px;
   color:#ffffff;
   font-weight: 400;
@@ -256,11 +256,11 @@ a {
 }
 
 .p-updates {
-  font-family: 'Montserrat'; font-size:20px; color:#ffffff; font-weight: 400; padding-top: 70px;
+  font-family: 'Montserrat', 'Open Sans', 'Proxima Nova'; font-size:20px; color:#ffffff; font-weight: 400; padding-top: 70px;
 }
 
 .p-touch {
-  font-family: 'Montserrat'; font-size:20px; color:#ffffff; font-weight: 400; padding-top: 70px;
+  font-family: 'Montserrat', 'Open Sans', 'Proxima Nova'; font-size:20px; color:#ffffff; font-weight: 400; padding-top: 70px;
 }
 
 .top-title {
@@ -309,7 +309,7 @@ a {
     font-size: 14px;
     color: white;
     line-height: 25px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', 'Open Sans', 'Proxima Nova';
   }
 
   .top-title {
@@ -319,8 +319,8 @@ a {
 
   .email {
     style="border: none;
-    font-family: 'Montserrat';
-    height: 50px;
+    font-family: 'Montserrat', 'Open Sans', 'Proxima Nova';
+    height: 55px;
     width: 50%;
     padding: 12px;
     margin-bottom: 20px;
